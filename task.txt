@@ -1,0 +1,3 @@
+Funcion que verifique si un email o user ya existe.
+Condiciones de ts en Login.
+endpoint de Login
